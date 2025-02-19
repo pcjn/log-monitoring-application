@@ -1,4 +1,4 @@
-# EventLog
+# Description
 This is a frontend-only Angular application that monitors and parses .log files. It tracks task start and end times, calculates duration in minutes, and displays logs in table.
 
 Angular CLI: 11.2.19
