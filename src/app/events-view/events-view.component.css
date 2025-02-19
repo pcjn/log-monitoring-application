@@ -1,0 +1,41 @@
+.page-content {
+  margin: 30px;
+}
+
+.eventsTable {
+  padding-top: 30px;
+
+  table {
+    width: 100%;
+  }
+}
+
+.error {
+  color: #FF0000FF;
+}
+
+.warning {
+  color: #ffa600;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.file-upload {
+  border: 1px solid #2742d7;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 6px 12px;
+  color: #2742d7;
+  height: 20px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.export-tasks {
+  color: #2742d7;
+  border: 1px solid #2742d7;
+  float: right;
+}
