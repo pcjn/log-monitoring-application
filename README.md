@@ -1,5 +1,5 @@
 # Description
-This is a frontend-only Angular application that monitors and parses .log files. It tracks task start and end times, calculates duration in minutes, and displays logs in table.
+This is a frontend-only Angular application that monitors and parses .log files. It tracks task start and end times, calculates duration in minutes and displays logs in table.
 
 Angular CLI: 11.2.19
 
@@ -16,7 +16,7 @@ Node: 14.16.1
 
 • Check the file uploaded is .log
 
-• Allow the export of anomaly tasks as CSV file
+• Allow the export of anomaly tasks as CSV file (example can be found in assets directory)
 
 ## Development server
 
